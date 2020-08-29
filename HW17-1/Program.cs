@@ -45,6 +45,14 @@ namespace HW17_1
 
 
             Console.ReadKey();
+            
+            
+            //создание папки с командной строки
+            //cd C:\
+            //mkdir folder1\sub_filder1
+            //mkdir folder1\sub_filder2
+            //mkdir folder2\sub_folder2_1
+            //tree
 
         }
     }
